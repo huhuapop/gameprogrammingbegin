@@ -1,0 +1,23 @@
+This file will help you to get your version of Andorra compiled.
+
+DirectX Plugin:
+----------------
+To compile the file "AndorraDX93D.dll", you have to add the DirectX 9 headers in the prerequiste package. Alternativly you may download them from:
+http://www.clootie.ru/
+
+Note: If you use newer headers, you'll also need to download the new DirectX-DLL files. (d3dx9_xx.dll)
+
+OpenGL Plugin:
+--------------
+To compile the file "AndorraOGL.dll", you have to add the OpenGL headers in the prerequiste package. Alternativly you may download them from:
+http://www.delphigl.com/
+
+Compressors and additional file formats:
+----------------------------------------
+If you want to use the AdPng.pas for highly compressed graphics, you'll need to download the PNG Delphi library (http://pngdelphi.sourceforge.net).
+
+
+If you have any questions, feel free to write an e-mail to:
+andreas.stoeckel@googlemail.com
+
+Have a lot of fun!

@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectOptions>
+    <PathDelim Value="\"/>
+    <Version Value="6"/>
+    <General>
+      <MainUnit Value="0"/>
+      <IconPath Value="./"/>
+      <TargetFileExt Value=".exe"/>
+      <ActiveEditorIndexAtStart Value="0"/>
+    </General>
+    <VersionInfo>
+      <ProjectVersion Value=""/>
+    </VersionInfo>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IgnoreBinaries Value="False"/>
+      <IncludeFileFilter Value="*.(pas|pp|inc|lfm|lpr|lrs|lpi|lpk|sh|xml)"/>
+      <ExcludeFileFilter Value="*.(bak|ppu|ppw|o|so);*~;backup"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+        <LaunchingApplication PathPlusParams="/usr/X11R6/bin/xterm -T 'Lazarus Run Output' -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="1">
+      <Item1>
+        <PackageName Value="LazOpenGLContext"/>
+      </Item1>
+    </RequiredPackages>
+    <Units Count="20">
+      <Unit0>
+        <Filename Value="NoVCL.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="NoVCL"/>
+        <CursorPos X="1" Y="11"/>
+        <TopLine Value="1"/>
+        <UsageCount Value="38"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="Main.pas"/>
+        <UnitName Value="Main"/>
+        <CursorPos X="60" Y="60"/>
+        <TopLine Value="29"/>
+        <EditorIndex Value="0"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\..\src\AdSimpleXML.pas"/>
+        <UnitName Value="AdSimpleXML"/>
+        <CursorPos X="43" Y="1340"/>
+        <TopLine Value="1395"/>
+        <UsageCount Value="11"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\..\src\AdLCLOGLWindow.pas"/>
+        <UnitName Value="AdLCLOGLWindow"/>
+        <CursorPos X="66" Y="69"/>
+        <TopLine Value="48"/>
+        <UsageCount Value="11"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\..\src\AdDraws.pas"/>
+        <UnitName Value="AdDraws"/>
+        <CursorPos X="1" Y="2628"/>
+        <TopLine Value="2612"/>
+        <UsageCount Value="11"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\..\..\..\..\..\..\..\..\Programme\lazarus\lcl\include\control.inc"/>
+        <CursorPos X="1" Y="1231"/>
+        <TopLine Value="1216"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\..\src\AdFontFactory.pas"/>
+        <UnitName Value="AdFontFactory"/>
+        <CursorPos X="20" Y="331"/>
+        <TopLine Value="316"/>
+        <UsageCount Value="11"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\..\src\AdSDLWindow.pas"/>
+        <UnitName Value="AdSDLWindow"/>
+        <CursorPos X="44" Y="30"/>
+        <TopLine Value="33"/>
+        <UsageCount Value="11"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\..\..\src\AdFreeImage.pas"/>
+        <UnitName Value="AdFreeImage"/>
+        <CursorPos X="3" Y="133"/>
+        <TopLine Value="118"/>
+        <UsageCount Value="11"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\..\src\AdBitmap.pas"/>
+        <UnitName Value="AdBitmap"/>
+        <CursorPos X="1" Y="410"/>
+        <TopLine Value="401"/>
+        <UsageCount Value="11"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\..\..\src\dll\opengl\OGLMain.pas"/>
+        <UnitName Value="OGLMain"/>
+        <CursorPos X="1" Y="952"/>
+        <TopLine Value="936"/>
+        <UsageCount Value="11"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\..\..\..\..\..\..\..\..\..\Programme\lazarus\fpc\2.2.0\source\rtl\objpas\math.pp"/>
+        <UnitName Value="math"/>
+        <CursorPos X="12" Y="835"/>
+        <TopLine Value="832"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\..\..\lib\FreeImage.pas"/>
+        <UnitName Value="FreeImage"/>
+        <CursorPos X="1" Y="1"/>
+        <TopLine Value="1"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\..\..\..\..\..\..\..\..\..\Programme\lazarus\fpc\2.2.0\source\rtl\objpas\typinfo.pp"/>
+        <UnitName Value="typinfo"/>
+        <CursorPos X="1" Y="558"/>
+        <TopLine Value="542"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\..\..\src\AdVCLWindow.pas"/>
+        <UnitName Value="AdVCLWindow"/>
+        <CursorPos X="6" Y="66"/>
+        <TopLine Value="65"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\..\..\src\AdVCLComponentWindow.pas"/>
+        <UnitName Value="AdVCLComponentWindow"/>
+        <CursorPos X="1" Y="1"/>
+        <TopLine Value="57"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="..\..\..\src\AdTypes.pas"/>
+        <UnitName Value="AdTypes"/>
+        <CursorPos X="1" Y="1"/>
+        <TopLine Value="313"/>
+        <EditorIndex Value="4"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="..\..\..\src\AdClasses.pas"/>
+        <UnitName Value="AdClasses"/>
+        <CursorPos X="1" Y="1"/>
+        <TopLine Value="441"/>
+        <EditorIndex Value="3"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="..\..\..\src\AdParticles.pas"/>
+        <UnitName Value="AdParticles"/>
+        <CursorPos X="1" Y="1415"/>
+        <TopLine Value="1383"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="..\..\..\src\AdBuffer.pas"/>
+        <UnitName Value="AdBuffer"/>
+        <CursorPos X="8" Y="30"/>
+        <TopLine Value="1"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit19>
+    </Units>
+    <JumpHistory Count="15" HistoryIndex="14">
+      <Position1>
+        <Filename Value="Main.pas"/>
+        <Caret Line="90" Column="1" TopLine="74"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Main.pas"/>
+        <Caret Line="92" Column="1" TopLine="76"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Main.pas"/>
+        <Caret Line="93" Column="1" TopLine="77"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Main.pas"/>
+        <Caret Line="94" Column="1" TopLine="78"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Main.pas"/>
+        <Caret Line="95" Column="1" TopLine="79"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Main.pas"/>
+        <Caret Line="97" Column="1" TopLine="79"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Main.pas"/>
+        <Caret Line="98" Column="1" TopLine="79"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Main.pas"/>
+        <Caret Line="99" Column="1" TopLine="79"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Main.pas"/>
+        <Caret Line="101" Column="1" TopLine="79"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Main.pas"/>
+        <Caret Line="103" Column="1" TopLine="79"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Main.pas"/>
+        <Caret Line="43" Column="35" TopLine="19"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Main.pas"/>
+        <Caret Line="102" Column="50" TopLine="79"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Main.pas"/>
+        <Caret Line="107" Column="35" TopLine="80"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\..\..\src\AdBuffer.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Main.pas"/>
+        <Caret Line="17" Column="1" TopLine="1"/>
+      </Position15>
+    </JumpHistory>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="8"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="..\..\..\bin\NoVCL.exe"/>
+    </Target>
+    <SearchPaths>
+      <OtherUnitFiles Value="..\..\..\lib\;..\..\..\src\;$(LazarusDir)\lcl\units\$(TargetCPU)-$(TargetOS)\;$(LazarusDir)\components\custom\;$(LazarusDir)\components\codetools\units\$(TargetCPU)-$(TargetOS)\;$(LazarusDir)\lcl\units\$(TargetCPU)-$(TargetOS)\$(LCLWidgetType)\;$(LazarusDir)\packager\units\$(TargetCPU)-$(TargetOS)\"/>
+      <UnitOutputDirectory Value="..\..\..\src\dcu"/>
+    </SearchPaths>
+    <Other>
+      <Verbosity>
+        <ShowHints Value="False"/>
+      </Verbosity>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="2">
+      <Item1>
+        <Name Value="ECodetoolError"/>
+      </Item1>
+      <Item2>
+        <Name Value="EFOpenError"/>
+      </Item2>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg1872"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   sodipodi:docbase="C:\Dokumente und Einstellungen\Andreas\Eigene Dateien\Programme\Delphi\Anwendungen\Andorra"
+   sodipodi:docname="usesa2d.svg"
+   inkscape:export-filename="C:\Dokumente und Einstellungen\Andreas\Eigene Dateien\Programme\Delphi\Anwendungen\Andorra\icon16.png"
+   inkscape:export-xdpi="22.5"
+   inkscape:export-ydpi="22.5"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <defs
+     id="defs1874">
+    <linearGradient
+       id="linearGradient2438">
+      <stop
+         style="stop-color:#7f7f7f;stop-opacity:0.73725492;"
+         offset="0"
+         id="stop2440" />
+      <stop
+         style="stop-color:#c9c9c9;stop-opacity:0.65098041;"
+         offset="1"
+         id="stop2442" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3665">
+      <stop
+         style="stop-color:#008dfe;stop-opacity:0.70322579;"
+         offset="0"
+         id="stop3667" />
+      <stop
+         style="stop-color:#2a5ac0;stop-opacity:0.40645161;"
+         offset="1"
+         id="stop3669" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2768">
+      <stop
+         style="stop-color:#d6d6d6;stop-opacity:0;"
+         offset="0"
+         id="stop2770" />
+      <stop
+         style="stop-color:#ffae39;stop-opacity:1;"
+         offset="1"
+         id="stop2772" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2768"
+       id="radialGradient2774"
+       cx="24.813021"
+       cy="23.759195"
+       fx="24.813021"
+       fy="23.759195"
+       r="20.29899"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3665"
+       id="radialGradient3671"
+       cx="53.165733"
+       cy="57.063992"
+       fx="53.165733"
+       fy="57.063992"
+       r="9.5695"
+       gradientTransform="matrix(1,0,0,0.58134,-12.36364,9.76331)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2768"
+       id="radialGradient6341"
+       gradientUnits="userSpaceOnUse"
+       cx="24.813021"
+       cy="23.759195"
+       fx="24.813021"
+       fy="23.759195"
+       r="20.29899" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3665"
+       id="radialGradient6343"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.58134,-12.36364,9.76331)"
+       spreadMethod="reflect"
+       cx="53.165733"
+       cy="57.063992"
+       fx="53.165733"
+       fy="57.063992"
+       r="9.5695" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3665"
+       id="radialGradient2232"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.360832,0,0,0.7911061,61.905308,10.605457)"
+       spreadMethod="reflect"
+       cx="53.165733"
+       cy="57.063992"
+       fx="53.165733"
+       fy="57.063992"
+       r="9.5695" />
+    <filter
+       inkscape:collect="always"
+       id="filter8399">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0907674"
+         id="feGaussianBlur8401" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="12.082853"
+     inkscape:cy="43.173875"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="968"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata1877">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient6341);fill-opacity:1;stroke:#ea8f00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1880"
+       sodipodi:cx="24.813021"
+       sodipodi:cy="23.759195"
+       sodipodi:rx="19.79899"
+       sodipodi:ry="19.79899"
+       d="M 44.612011 23.759195 A 19.79899 19.79899 0 1 1  5.0140305,23.759195 A 19.79899 19.79899 0 1 1  44.612011 23.759195 z"
+       transform="matrix(1.360832,0,0,1.360832,-5.415562,-3.430369)"
+       inkscape:export-filename="C:\Dokumente und Einstellungen\Andreas\Eigene Dateien\Programme\Delphi\Anwendungen\Andorra\images\usead.png"
+       inkscape:export-xdpi="78.239998"
+       inkscape:export-ydpi="78.239998" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.26797485px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:url(#radialGradient2232);stroke-width:1.36083198px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Maiandra GD"
+       x="120.52631"
+       y="63.236507"
+       id="text2776"
+       inkscape:export-filename="C:\Dokumente und Einstellungen\Andreas\Eigene Dateien\Programme\Delphi\Anwendungen\Andorra\images\usead.png"
+       inkscape:export-xdpi="78.239998"
+       inkscape:export-ydpi="78.239998"><tspan
+         sodipodi:role="line"
+         id="tspan2778"
+         x="120.52631"
+         y="63.236507"
+         style="stroke:url(#radialGradient2232);stroke-width:1.36083198">2D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48.92014313px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Maiandra GD"
+       x="12.61751"
+       y="45.140671"
+       id="text3673"
+       inkscape:export-filename="C:\Dokumente und Einstellungen\Andreas\Eigene Dateien\Programme\Delphi\Anwendungen\Andorra\images\usead.png"
+       inkscape:export-xdpi="78.239998"
+       inkscape:export-ydpi="78.239998"><tspan
+         sodipodi:role="line"
+         id="tspan3675"
+         x="12.61751"
+         y="45.140671">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32.10465622px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Maiandra GD"
+       x="42.815895"
+       y="45.144096"
+       id="text2181"
+       inkscape:export-filename="C:\Dokumente und Einstellungen\Andreas\Eigene Dateien\Programme\Delphi\Anwendungen\Andorra\images\usead.png"
+       inkscape:export-xdpi="78.239998"
+       inkscape:export-ydpi="78.239998"><tspan
+         sodipodi:role="line"
+         id="tspan2183"
+         x="42.815895"
+         y="45.144096">nd  rra</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Maiandra GD"
+       x="49.314453"
+       y="17.330952"
+       id="text2242"
+       inkscape:export-filename="C:\Dokumente und Einstellungen\Andreas\Eigene Dateien\Programme\Delphi\Anwendungen\Andorra\images\usead.png"
+       inkscape:export-xdpi="78.239998"
+       inkscape:export-ydpi="78.239998"><tspan
+         sodipodi:role="line"
+         id="tspan2244"
+         x="49.314453"
+         y="17.330952">powered by</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter8399)"
+       d="M 294.5,-24.786796 L 288.5,-21.724296 L 287.78125,-13.599296 L 286.90625,4.5882036 L 275.40625,12.025704 L 265.6875,14.338204 L 246.59375,-2.8180464 L 245,-3.0055464 L 234.40625,1.4319536 L 220.78125,17.494454 L 220.625,21.056954 L 225,30.213204 L 235,40.213204 L 237.40625,43.494454 L 231.9375,57.806954 L 230,62.056954 L 225,65.213204 L 204.34375,65.213204 C 204.34374,65.213204 200.11336,65.404384 199.40625,67.525704 C 198.69915,69.647025 199.0625,97.931954 199.0625,97.931954 C 199.06249,97.931955 199.58763,101.13018 202.0625,101.30695 C 204.53738,101.48373 227.5,101.11945 227.5,101.11945 L 237.75,119.68195 L 237.75,124.11945 L 222.5625,140.7132 C 222.5625,140.7132 220,144.78919 220,146.55695 C 220,148.32472 232.625,163.5257 232.625,163.5257 L 240.9375,170.2132 L 248.375,170.2132 L 260,159.11945 L 265,153.61945 L 270,153.61945 L 277.53125,156.0882 L 285,159.6507 L 287.4375,162.11945 L 287.25,185.2132 L 289.5625,190.2132 L 297.6875,192.86945 L 321.5625,191.99445 L 324.5625,188.4632 L 326.15625,185.2132 L 326.34375,163.18195 L 331.28125,157.3382 L 343.46875,153.2757 L 347.53125,153.2757 L 362.03125,166.18195 L 368.21875,170.2132 L 375,170.2132 L 393.34375,149.55695 L 393.5,144.24445 L 376.53125,125.2132 L 376,121.0882 L 380.78125,108.55695 L 384.125,103.24445 L 408,103.24445 L 414.375,100.7757 L 415,93.525704 L 414.53125,70.713204 L 410.65625,65.213204 L 387.15625,63.838204 L 382.90625,63.463204 L 377.59375,51.806954 L 375.65625,44.556954 L 383.78125,33.244454 L 393.15625,25.213204 L 393.15625,16.431954 L 373.1875,-2.0992964 L 363.625,-1.5992964 L 346.125,15.213204 L 326.5,7.2444536 L 327.03125,-15.536796 L 321.21875,-24.786796 L 294.5,-24.786796 z M 305.8125,45.619454 C 338.09634,45.685745 341.18748,60.327139 344.1875,83.619454 C 347.18752,106.73499 322.31377,121.57526 303.53125,121.61945 C 284.74873,121.66364 268.48796,102.81045 269.0625,83.806954 C 269.63702,64.803459 273.5278,45.553161 305.8125,45.619454 z "
+       id="path2422"
+       transform="matrix(0.1029667,1.2413757e-2,-2.7016878e-2,9.1250768e-2,59.350373,25.48856)"
+       inkscape:export-filename="C:\Dokumente und Einstellungen\Andreas\Eigene Dateien\Programme\Delphi\Anwendungen\Andorra\images\usead.png"
+       inkscape:export-xdpi="78.239998"
+       inkscape:export-ydpi="78.239998" />
+  </g>
+</svg>

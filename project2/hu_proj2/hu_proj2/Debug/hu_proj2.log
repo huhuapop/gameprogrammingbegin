@@ -1,0 +1,5 @@
+﻿  hu_project2.cc
+c:\users\huhuapop\documents\visual studio 2015\projects\hu_proj2\hu_project2.cc(874): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\huhuapop\documents\visual studio 2015\projects\hu_proj2\hu_project2.cc(874): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+  hu_proj2.vcxproj -> C:\Users\huhuapop\Documents\Visual Studio 2015\Projects\hu_proj2\Debug\hu_proj2.exe
+  hu_proj2.vcxproj -> C:\Users\huhuapop\Documents\Visual Studio 2015\Projects\hu_proj2\Debug\hu_proj2.pdb (Full PDB)

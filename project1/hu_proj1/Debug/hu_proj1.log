@@ -1,0 +1,5 @@
+﻿  hu_project1.cc
+c:\hu\gsu\course\advanced graphics algorithms\vs2015\hu_project1.cc(842): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\hu\gsu\course\advanced graphics algorithms\vs2015\hu_project1.cc(842): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+  hu_proj1.vcxproj -> C:\Users\huhuapop\Documents\Visual Studio 2015\Projects\hu_proj1\Debug\hu_proj1.exe
+  hu_proj1.vcxproj -> C:\Users\huhuapop\Documents\Visual Studio 2015\Projects\hu_proj1\Debug\hu_proj1.pdb (Full PDB)

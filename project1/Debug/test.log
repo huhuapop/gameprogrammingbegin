@@ -1,0 +1,5 @@
+﻿  hu_project1.cc
+c:\hu\gsu\course\advanced graphics algorithms\vs2015\hu_project1.cc(73): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+c:\hu\gsu\course\advanced graphics algorithms\vs2015\hu_project1.cc(82): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  hu_proj1.vcxproj -> c:\users\huhuapop\documents\visual studio 2015\Projects\hu_proj1\Debug\hu_proj1.exe
+  hu_proj1.vcxproj -> c:\users\huhuapop\documents\visual studio 2015\Projects\hu_proj1\Debug\hu_proj1.pdb (Full PDB)

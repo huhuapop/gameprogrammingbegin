@@ -1,0 +1,7 @@
+﻿  hu_project4.cpp
+c:\users\huhuapop\documents\visual studio 2015\projects\hu_project4\hu_project4\hu_project4.cpp(188): warning C4838: conversion from 'int' to 'std::size_t' requires a narrowing conversion
+c:\users\huhuapop\documents\visual studio 2015\projects\hu_project4\hu_project4\hu_project4.cpp(228): warning C4018: '<': signed/unsigned mismatch
+c:\users\huhuapop\documents\visual studio 2015\projects\hu_project4\hu_project4\hu_project4.cpp(125): warning C4996: 'clCreateCommandQueue': was declared deprecated
+  c:\intel\opencl\sdk\include\cl\cl.h(1428): note: see declaration of 'clCreateCommandQueue'
+  hu_project4.vcxproj -> C:\Users\huhuapop\Documents\Visual Studio 2015\Projects\hu_project4\Debug\hu_project4.exe
+  hu_project4.vcxproj -> C:\Users\huhuapop\Documents\Visual Studio 2015\Projects\hu_project4\Debug\hu_project4.pdb (Full PDB)
